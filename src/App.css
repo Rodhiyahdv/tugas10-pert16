@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+#Counter {
+  background-color: yellowgreen;
+  padding-bottom: 10px;
+  margin: auto;
+}
+
+#ListProduct {
+  display: flex;
+  flex-direction: column;
+  background-color:tomato;
+  padding-bottom: 10px;
+  margin: auto;
+}
+
+#ListProduct img{
+  width: 100px;
+  height: 100px;
+}
